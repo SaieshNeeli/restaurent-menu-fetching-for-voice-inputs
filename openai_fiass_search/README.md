@@ -1,3 +1,5 @@
+
+<pre>
 Query: prawn fry
 Matched item_id: SCRB_001
 Distance score: 0.5883428
@@ -8,3 +10,4 @@ category: SHRIMP & CRAB
 price: 17.99
 type: Non-Veg
 Full time taken: 2.1768157482147217
+</pre>
